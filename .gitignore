@@ -1,0 +1,10 @@
+
+target/
+dbt_modules/
+logs/
+**/.DS_Store
+venv/
+jaffle_shop/tutorial.duckdb
+__pycache__
+jaffle_dagster/__pycache__
+tutorial.duckdb/
